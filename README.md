@@ -21,7 +21,7 @@ Code your solutions for the following four methods in the
 2. Implement a method called `my_hash` that returns a valid hash. This hash should
    have at least one key/value pair of your choice.
 
-3. Implement a method called `pioneer` that returns a hash. This hash should have a
+3. Implement a method called `pioneer` that rhttps://learn.co/tracks/fswd-prework-2-01/fswd-prework-2-01-fswd-prework/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-4-collection-data-types-array-and-hash/basic-hashes-lab#eturns a hash. This hash should have a
    key that is a symbol `:name` and whose value is a string, `'Grace Hopper'`.
 
 4. Implement a method called `id_hash_generator` that takes in one parameter, an
